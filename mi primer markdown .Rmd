@@ -1,6 +1,9 @@
 ---
 title: "Primer Markdown"
-output: html_document
+author: "Alejandro Guevara"
+output: 
+  html_document: 
+    keep_md: yes
 ---
 
 ```{r setup, include=FALSE}
